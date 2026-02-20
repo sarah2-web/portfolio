@@ -1,6 +1,6 @@
 # 🌟 Sarah2 Web – Portfolio
 
-🔗 **Live Demo:** [https://sarah2-web.github.io/portfolio/](https://sarah2-web.github.io/portfolio/)
+🔗 **Live Demo:** (https://sarah2-web.github.io/portfolio/)
 
 ## 📌 About
 
